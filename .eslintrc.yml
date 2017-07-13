@@ -6,3 +6,4 @@ plugins:
 globals:
   Polymer: false
   WCT: false
+  Promise: false
